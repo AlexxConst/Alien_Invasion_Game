@@ -50,7 +50,4 @@ This project was created for learning purposes to practice Python, object-orient
 
 ## 📷 Screenshot
 
-_Add your screenshot here_
-
-```text
-images/screenshot.png
+![Alien Invasion Screenshot](images/screenshot.png)
