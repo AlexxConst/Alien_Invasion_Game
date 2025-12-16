@@ -48,6 +48,16 @@ This project was created for learning purposes to practice Python, object-orient
 
 ---
 
+▶️ How to Run
+	1.	Install Python 3.x
+	2.	Install Pygame:
+
+  pip install pygame
+
+  3.	Run the game:
+
+  python alien_invasion.py
+
 ## 📷 Screenshot
 
 ![Alien Invasion Screenshot](images/screenshot.png)
